@@ -1,0 +1,29 @@
+nav {
+    background-image: linear-gradient(180deg, #634835 0, #624230 10%, #603b2b 20%, #5f3227 30%, #5c2923 40%, #591f1f 50%, #55131d 60%, #52051c 70%, #4e001c 80%, #49001e 90%, #440020 100%);
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin: 0 10px;
+  }
+  
+  a {
+    color: #fff;
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  a:hover {
+    color: #f9c24f;
+  }
+  

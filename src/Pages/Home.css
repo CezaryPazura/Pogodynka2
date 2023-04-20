@@ -1,0 +1,13 @@
+.home-container {
+    background-image: radial-gradient(circle at 50.05% 50%, #dacb09 0, #e5bf04 8.33%, #eab00a 16.67%, #ea9e15 25%, #e48b1d 33.33%, #d97624 41.67%, #c86027 50%, #b54b29 58.33%, #a33a2a 66.67%, #942b2c 75%, #87202e 83.33%, #7c1731 91.67%, #741035 100%);
+    color: white;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  p{
+    text-align: center;
+  }
+  
